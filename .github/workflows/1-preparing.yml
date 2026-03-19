@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - "build-octofit-app"
+      - "copilot/build-octofit-app"
 
 permissions:
   contents: read
